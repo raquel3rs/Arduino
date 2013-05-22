@@ -1,6 +1,6 @@
-Arduino
+Arduino    
 ===
-Various Projects developed at university
+###### Various Projects developed at university
 ___
 To use these projects you will need:
 
@@ -21,4 +21,6 @@ Connect the Arduino board to your computer using the USB cable. The green power 
 
 ___
 
-CONGRATS! You are ready to go! Just launch the arduino application.
+CONGRATS! You are ready to go! Just launch the arduino application. 
+
+![Alt Text](http://proxy.storify.com/?url=http%3A%2F%2Fa0.twimg.com%2Fprofile_images%2F1275590414%2Flogo_normal.png)
