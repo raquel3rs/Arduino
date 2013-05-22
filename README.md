@@ -1,7 +1,7 @@
 Arduino
-====
-Various Arduino Projects developed at university.
-
+===
+Various Projects developed at university
+___
 To use these projects you will need:
 
 1) Get an Arduino board and USB cable.
@@ -18,5 +18,7 @@ Connect the Arduino board to your computer using the USB cable. The green power 
 - Choose the "Browse my computer for Driver software" option.
 - Finally, navigate to and select the "Drivers" folder of the Arduino Software download. (not the "FTDI USB Drivers" sub-directory)
 - Windows will finish up the driver installation from there.
+
+___
 
 CONGRATS! You are ready to go! Just launch the arduino application.
